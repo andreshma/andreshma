@@ -68,6 +68,7 @@ I write about software architecture, DevOps and AI in Spanish, on
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
 
 ## 📫 Let's connect
 
