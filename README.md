@@ -16,6 +16,24 @@ governance: guardrails, evals and human review where it matters.
 - 🧱 **App modernization** — monoliths to microservices, Kubernetes, CI/CD and observability.
 - 🧭 **Technical leadership** — multidisciplinary teams under Scrum/SAFe, turning business needs into executable roadmaps.
 
+## 🏢 Experience
+
+**Industries:** telecom · education · government & public sector · banking & financial services ·
+retail & consumer goods · healthcare · mining · entertainment
+
+Selected work (clients kept anonymous):
+
+- **Agentic AI in production** — high availability (multi-region) and disaster recovery (RTO/RPO, failover runbooks) for voice and chat AI agents, on an Azure Landing Zone I designed following the Cloud Adoption Framework.
+- **Agentic AI accelerator for the public sector** — infrastructure as code with Terraform and Bicep, agent services deployed on Kubernetes.
+- **University GenAI platform** — modernized core modules into microservices on AKS, with CI/CD and end-to-end observability.
+- **Enterprise RAG assistants** — for a financial regulator and a telecom operator, under strict data-governance requirements.
+- **Frontend at scale** — microfrontend architecture for a beverage bottler's operations platform.
+- **Cloud migration & modernization** — IaaS→PaaS on Azure, a mission-critical federal application moved to Azure, legacy-to-microservices roadmaps.
+- **Data** — modernized Databricks / Data Factory pipelines and built automated testing for them at a bank.
+- **AWS** — serverless .NET middleware (Lambda, EventBridge, S3, X-Ray) and microservices for a consumer lender.
+
+**Career:** Mobiik (2021–present) · PRAXIS México (2015–2021) · .NET developer before that.
+
 ## 🚀 Featured projects
 
 | Project | What it does |
@@ -44,6 +62,10 @@ I write about software architecture, DevOps and AI in Spanish, on
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
 
