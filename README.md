@@ -2,7 +2,7 @@
 
 **Solutions Architect & Senior Technology Manager at [Mobiik](https://mobiik.com)** · Mexico City 🇲🇽
 
-I design cloud architectures on Azure that help companies scale, automate and cut costs
+I design cloud architectures on Azure, AWS and GCP that help companies scale, automate and cut costs
 without giving up security or governance. 14+ years in tech: cloud migrations, legacy
 modernization, microservices, DevOps — and lately, mostly AI agent architecture and
 governance: guardrails, evals and human review where it matters.
@@ -11,7 +11,7 @@ governance: guardrails, evals and human review where it matters.
 
 ## 🧠 What I work on
 
-- ☁️ **Cloud & DevOps on Azure** — secure, scalable platforms aligned with the Well-Architected Framework; Infrastructure as Code with Terraform.
+- ☁️ **Cloud & DevOps on Azure, AWS and GCP** — secure, scalable platforms aligned with the Well-Architected Framework; Infrastructure as Code with Terraform.
 - 🤖 **Applied GenAI & agentic systems** — Azure OpenAI, agent architecture, AI governance, evals and red teaming in CI/CD.
 - 🧱 **App modernization** — monoliths to microservices, Kubernetes, CI/CD and observability.
 - 🧭 **Technical leadership** — multidisciplinary teams under Scrum/SAFe, turning business needs into executable roadmaps.
@@ -37,6 +37,8 @@ I write about software architecture, DevOps and AI in Spanish, on
 ## 🛠️ Tech I use
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
